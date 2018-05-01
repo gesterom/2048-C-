@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="2048/2048.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2048/Program.cs">
+    <Files>
+      <File FileName="2048/Program.cs" Line="10" Column="14" />
+      <File FileName="2048/Model.cs" Line="1" Column="1" />
+      <File FileName="2048/View.cs" Line="1" Column="1" />
+      <File FileName="2048/IModelView.cs" Line="1" Column="1" />
+      <File FileName="2048/Controler.cs" Line="1" Column="1" />
+      <File FileName="2048/GUIForm.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

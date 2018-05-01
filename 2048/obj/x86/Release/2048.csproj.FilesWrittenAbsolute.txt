@@ -1,0 +1,5 @@
+/home/android-17/Projects/2048/2048/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/android-17/Projects/2048/2048/bin/Release/2048.pdb
+/home/android-17/Projects/2048/2048/bin/Release/2048.exe
+/home/android-17/Projects/2048/2048/obj/x86/Release/2048.exe
+/home/android-17/Projects/2048/2048/obj/x86/Release/2048.pdb

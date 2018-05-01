@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="2048.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controler.cs" Line="52" Column="4" />
+      <File FileName="GUIForm.cs" Line="84" Column="4" />
+      <File FileName="Program.cs" Line="9" Column="18" />
+      <File FileName="View.cs" Line="40" Column="12" />
+      <File FileName="Model.cs" Line="7" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
